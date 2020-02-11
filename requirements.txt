@@ -10,7 +10,7 @@ certifi==2016.9.26
 configparser==3.5.0
 cycler==0.10.0
 decorator==4.0.10
-Django==1.10.1
+Django==1.11.28
 docutils==0.12
 elasticsearch==5.0.1
 entrypoints==0.2.2
